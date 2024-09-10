@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66ac2109-afa5-4121-b758-3abff676ab3c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/mutableListOf.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Percabangan IF, IF-ELSE, IF-ELSE IF.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,7 +165,42 @@
       <option name="project" value="LOCAL" />
       <updated>1725948760860</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Add mutableListOf.kt">
+      <created>1725949243795</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1725949243795</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Add arrayListOf.kt">
+      <created>1725949328814</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1725949328814</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Add Set.kt">
+      <created>1725949385179</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1725949385179</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Add Map.kt">
+      <created>1725949433284</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1725949433284</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Add Ranges.kt">
+      <created>1725949468757</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1725949468757</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -174,6 +209,11 @@
     <MESSAGE value="Add Array Multidimensi.kt" />
     <MESSAGE value="Add Collections.kt" />
     <MESSAGE value="Add listOf.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add listOf.kt" />
+    <MESSAGE value="Add mutableListOf.kt" />
+    <MESSAGE value="Add arrayListOf.kt" />
+    <MESSAGE value="Add Set.kt" />
+    <MESSAGE value="Add Map.kt" />
+    <MESSAGE value="Add Ranges.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Ranges.kt" />
   </component>
 </project>
