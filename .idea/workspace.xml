@@ -40,7 +40,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Array_MultidimensiKt">
+  <component name="RunManager" selected="Kotlin.CollectionsKt">
     <configuration name="ArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayKt" />
       <module name="DasarKotlinLanjut" />
@@ -69,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array_dengan_tipe_primitiveKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_dengan_tipe_primitiveKt" />
+    <configuration name="CollectionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionsKt" />
       <module name="DasarKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.CollectionsKt" />
         <item itemvalue="Kotlin.Array_MultidimensiKt" />
         <item itemvalue="Kotlin.Array_2_DimensiKt" />
         <item itemvalue="Kotlin.Array_MethodKt" />
         <item itemvalue="Kotlin.ArrayKt" />
-        <item itemvalue="Kotlin.Array_dengan_tipe_primitiveKt" />
       </list>
     </recent_temporary>
   </component>
