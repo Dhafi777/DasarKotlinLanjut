@@ -40,16 +40,9 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.ArrayListOfKt">
+  <component name="RunManager" selected="Kotlin.MapKt">
     <configuration name="ArrayListOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayListOfKt" />
-      <module name="DasarKotlinLanjut" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Array_MultidimensiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_MultidimensiKt" />
       <module name="DasarKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,6 +62,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MapKt" />
+      <module name="DasarKotlinLanjut" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MutableListOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MutableListOfKt" />
       <module name="DasarKotlinLanjut" />
@@ -78,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MapKt" />
         <item itemvalue="Kotlin.ArrayListOfKt" />
         <item itemvalue="Kotlin.MutableListOfKt" />
         <item itemvalue="Kotlin.ListOfKt" />
         <item itemvalue="Kotlin.CollectionsKt" />
-        <item itemvalue="Kotlin.Array_MultidimensiKt" />
       </list>
     </recent_temporary>
   </component>
