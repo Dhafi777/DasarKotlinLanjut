@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66ac2109-afa5-4121-b758-3abff676ab3c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Array Method.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Array Multidimensi.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Array_2_DimensiKt">
+  <component name="RunManager" selected="Kotlin.Array_MultidimensiKt">
     <configuration name="ArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayKt" />
       <module name="DasarKotlinLanjut" />
@@ -63,6 +62,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Array_MultidimensiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_MultidimensiKt" />
+      <module name="DasarKotlinLanjut" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Array_dengan_tipe_primitiveKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array_dengan_tipe_primitiveKt" />
       <module name="DasarKotlinLanjut" />
@@ -72,6 +78,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Array_MultidimensiKt" />
         <item itemvalue="Kotlin.Array_2_DimensiKt" />
         <item itemvalue="Kotlin.Array_MethodKt" />
         <item itemvalue="Kotlin.ArrayKt" />
@@ -123,11 +130,26 @@
       <option name="project" value="LOCAL" />
       <updated>1725948016235</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Program Starter">
+      <created>1725948334826</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725948334826</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add Array 2 Dimensi.kt">
+      <created>1725948449829</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725948449829</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Program Starter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Program Starter" />
+    <MESSAGE value="Add Array 2 Dimensi.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Array 2 Dimensi.kt" />
   </component>
 </project>
