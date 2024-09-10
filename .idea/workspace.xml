@@ -17,6 +17,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2lro1RnJGyYIl9G8pLts8UCdCLP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -31,7 +34,7 @@
     "dart.analysis.tool.window.visible": "false"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Array_dengan_tipe_primitiveKt">
+  <component name="RunManager" selected="Kotlin.ArrayKt">
     <configuration name="ArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayKt" />
       <module name="DasarKotlinLanjut" />
@@ -48,8 +51,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Array_dengan_tipe_primitiveKt" />
         <item itemvalue="Kotlin.ArrayKt" />
+        <item itemvalue="Kotlin.Array_dengan_tipe_primitiveKt" />
       </list>
     </recent_temporary>
   </component>
