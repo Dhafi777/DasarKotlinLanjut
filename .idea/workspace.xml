@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66ac2109-afa5-4121-b758-3abff676ab3c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Elvis Operator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Fungsi dan Lambdas.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Menghitung_Akar_KuadratKt">
+  <component name="RunManager" selected="Kotlin.Fungsi_dan_LambdasKt">
     <configuration name="Elvis_OperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Elvis_OperatorKt" />
       <module name="DasarKotlinLanjut" />
@@ -55,15 +55,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Menghitung_Akar_KuadratKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Menghitung_Akar_KuadratKt" />
+    <configuration name="Fungsi_dan_LambdasKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fungsi_dan_LambdasKt" />
       <module name="DasarKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operator___Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Operator___Kt" />
+    <configuration name="Menghitung_Akar_KuadratKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Menghitung_Akar_KuadratKt" />
       <module name="DasarKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Fungsi_dan_LambdasKt" />
         <item itemvalue="Kotlin.Menghitung_Akar_KuadratKt" />
         <item itemvalue="Kotlin.Fungsi_MathKt" />
         <item itemvalue="Kotlin.Elvis_OperatorKt" />
         <item itemvalue="Kotlin.Pemanggilan_yang_aman__Safe_Calls_Kt" />
-        <item itemvalue="Kotlin.Operator___Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -305,12 +305,38 @@
       <option name="project" value="LOCAL" />
       <updated>1726310572281</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Add Elvis Operator (?:).kt">
+      <created>1726310679788</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1726310679788</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Add Fungsi Math.kt">
+      <created>1726310788332</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1726310788332</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Add Menghitung Luas dan Keliling Lingkaran.kt">
+      <created>1726310830747</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1726310830747</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Add Menghitung Akar Kuadrat.kt">
+      <created>1726310888530</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1726310888530</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Program Starter" />
-    <MESSAGE value="Add Array 2 Dimensi.kt" />
     <MESSAGE value="Add Array Multidimensi.kt" />
     <MESSAGE value="Add Collections.kt" />
     <MESSAGE value="Add listOf.kt" />
@@ -332,6 +358,10 @@
     <MESSAGE value="Add Break, Continue, Return dan Label.kt" />
     <MESSAGE value="Add Operator !!.kt" />
     <MESSAGE value="Add Pemanggilan yang aman (Safe Calls).kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Pemanggilan yang aman (Safe Calls).kt" />
+    <MESSAGE value="Add Elvis Operator (?:).kt" />
+    <MESSAGE value="Add Fungsi Math.kt" />
+    <MESSAGE value="Add Menghitung Luas dan Keliling Lingkaran.kt" />
+    <MESSAGE value="Add Menghitung Akar Kuadrat.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Menghitung Akar Kuadrat.kt" />
   </component>
 </project>
