@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66ac2109-afa5-4121-b758-3abff676ab3c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Penerapan For-Loop dalam Tabel Perkalian.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="66ac2109-afa5-4121-b758-3abff676ab3c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -250,7 +247,28 @@
       <option name="project" value="LOCAL" />
       <updated>1726309240539</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Add Penerapan For-Loop dalam Tabel Perkalian.kt">
+      <created>1726309340516</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1726309340516</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Add Penerapan For-Loop dalam Kalkulator Eksponensial.kt">
+      <created>1726309415811</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1726309415812</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Add While dan Do-While Loop.kt">
+      <created>1726309538488</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1726309538488</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -270,6 +288,9 @@
     <MESSAGE value="Add When.kt" />
     <MESSAGE value="Add Kalkulator Sederhana Menggunakan Percabangan When.kt" />
     <MESSAGE value="Add Perulangan For Loop.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Perulangan For Loop.kt" />
+    <MESSAGE value="Add Penerapan For-Loop dalam Tabel Perkalian.kt" />
+    <MESSAGE value="Add Penerapan For-Loop dalam Kalkulator Eksponensial.kt" />
+    <MESSAGE value="Add While dan Do-While Loop.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add While dan Do-While Loop.kt" />
   </component>
 </project>
