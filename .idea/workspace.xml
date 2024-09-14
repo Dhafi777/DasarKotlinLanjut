@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66ac2109-afa5-4121-b758-3abff676ab3c" name="Changes" comment="" />
+    <list default="true" id="66ac2109-afa5-4121-b758-3abff676ab3c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Elvis Operator.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +40,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Pemanggilan_yang_aman__Safe_Calls_Kt">
+  <component name="RunManager" selected="Kotlin.Elvis_OperatorKt">
+    <configuration name="Elvis_OperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Elvis_OperatorKt" />
+      <module name="DasarKotlinLanjut" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Null_SafetyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Null_SafetyKt" />
       <module name="DasarKotlinLanjut" />
@@ -60,13 +69,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Penerapan_For_Loop_dalam_Kalkulator_EksponensialKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Penerapan_For_Loop_dalam_Kalkulator_EksponensialKt" />
-      <module name="DasarKotlinLanjut" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="While_dan_Do_While_LoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="While_dan_Do_While_LoopKt" />
       <module name="DasarKotlinLanjut" />
@@ -76,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Elvis_OperatorKt" />
         <item itemvalue="Kotlin.Pemanggilan_yang_aman__Safe_Calls_Kt" />
         <item itemvalue="Kotlin.Operator___Kt" />
         <item itemvalue="Kotlin.Null_SafetyKt" />
         <item itemvalue="Kotlin.While_dan_Do_While_LoopKt" />
-        <item itemvalue="Kotlin.Penerapan_For_Loop_dalam_Kalkulator_EksponensialKt" />
       </list>
     </recent_temporary>
   </component>
@@ -296,7 +298,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726310322788</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Add Pemanggilan yang aman (Safe Calls).kt">
+      <created>1726310572281</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1726310572281</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -322,6 +331,7 @@
     <MESSAGE value="Add Penerapan While-Loop dalam Kalkulator Sederhana.kt" />
     <MESSAGE value="Add Break, Continue, Return dan Label.kt" />
     <MESSAGE value="Add Operator !!.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Operator !!.kt" />
+    <MESSAGE value="Add Pemanggilan yang aman (Safe Calls).kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Pemanggilan yang aman (Safe Calls).kt" />
   </component>
 </project>
