@@ -4,7 +4,7 @@ fun main(args: Array<String>) {
     val a = readLine()!!.toDouble()
     println("Enter the second number:");
     val b = readLine()!!.toDouble()
-    println("Choose one of the following operations:")
+    println("Choose one of the folowing operations:")
     println("1 - addition")
     println("2 - subtraction")
     println("3 - multiplication")
