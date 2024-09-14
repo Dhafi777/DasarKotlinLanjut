@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66ac2109-afa5-4121-b758-3abff676ab3c" name="Changes" comment="" />
+    <list default="true" id="66ac2109-afa5-4121-b758-3abff676ab3c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Null-Safety.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,9 +40,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.While_dan_Do_While_LoopKt">
-    <configuration name="Kalkulator_Sederhana_Menggunakan_Percabangan_WhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kalkulator_Sederhana_Menggunakan_Percabangan_WhenKt" />
+  <component name="RunManager" selected="Kotlin.Operator___Kt">
+    <configuration name="Null_SafetyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Null_SafetyKt" />
+      <module name="DasarKotlinLanjut" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Operator___Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operator___Kt" />
       <module name="DasarKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -60,13 +69,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Perulangan_For_LoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Perulangan_For_LoopKt" />
-      <module name="DasarKotlinLanjut" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="While_dan_Do_While_LoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="While_dan_Do_While_LoopKt" />
       <module name="DasarKotlinLanjut" />
@@ -76,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Operator___Kt" />
+        <item itemvalue="Kotlin.Null_SafetyKt" />
         <item itemvalue="Kotlin.While_dan_Do_While_LoopKt" />
         <item itemvalue="Kotlin.Penerapan_For_Loop_dalam_Kalkulator_EksponensialKt" />
         <item itemvalue="Kotlin.Penerapan_For_Loop_dalam_Tabel_PerkalianKt" />
-        <item itemvalue="Kotlin.Perulangan_For_LoopKt" />
-        <item itemvalue="Kotlin.Kalkulator_Sederhana_Menggunakan_Percabangan_WhenKt" />
       </list>
     </recent_temporary>
   </component>
@@ -268,7 +270,28 @@
       <option name="project" value="LOCAL" />
       <updated>1726309538488</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Add Penerapan While-Loop dalam Kalkulator Sederhana.kt">
+      <created>1726309656709</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1726309656709</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Add Break, Continue, Return dan Label.kt">
+      <created>1726309707722</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1726309707722</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Add Break, Continue, Return dan Label.kt">
+      <created>1726309743164</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1726309743164</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -291,6 +314,8 @@
     <MESSAGE value="Add Penerapan For-Loop dalam Tabel Perkalian.kt" />
     <MESSAGE value="Add Penerapan For-Loop dalam Kalkulator Eksponensial.kt" />
     <MESSAGE value="Add While dan Do-While Loop.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add While dan Do-While Loop.kt" />
+    <MESSAGE value="Add Penerapan While-Loop dalam Kalkulator Sederhana.kt" />
+    <MESSAGE value="Add Break, Continue, Return dan Label.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Break, Continue, Return dan Label.kt" />
   </component>
 </project>
