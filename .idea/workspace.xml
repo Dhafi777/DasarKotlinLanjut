@@ -41,16 +41,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.WhenKt">
-    <configuration name="ArrayListOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayListOfKt" />
+  <component name="RunManager" selected="Kotlin.Kalkulator_Sederhana_Menggunakan_Percabangan_WhenKt">
+    <configuration name="Kalkulator_Sederhana_Menggunakan_Percabangan_IF_ELSE_IFKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kalkulator_Sederhana_Menggunakan_Percabangan_IF_ELSE_IFKt" />
       <module name="DasarKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kalkulator_Sederhana_Menggunakan_Percabangan_IF_ELSE_IFKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kalkulator_Sederhana_Menggunakan_Percabangan_IF_ELSE_IFKt" />
+    <configuration name="Kalkulator_Sederhana_Menggunakan_Percabangan_WhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kalkulator_Sederhana_Menggunakan_Percabangan_WhenKt" />
       <module name="DasarKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Kalkulator_Sederhana_Menggunakan_Percabangan_WhenKt" />
         <item itemvalue="Kotlin.WhenKt" />
         <item itemvalue="Kotlin.Kalkulator_Sederhana_Menggunakan_Percabangan_IF_ELSE_IFKt" />
         <item itemvalue="Kotlin.Percabangan_IF__IF_ELSE__IF_ELSE_IF_Contoh_kode_program_2Kt" />
         <item itemvalue="Kotlin.MapKt" />
-        <item itemvalue="Kotlin.ArrayListOfKt" />
       </list>
     </recent_temporary>
   </component>
