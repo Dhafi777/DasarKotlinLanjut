@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66ac2109-afa5-4121-b758-3abff676ab3c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Fungsi dan Lambdas.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,37 +40,37 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Argumen_Default_FungsiKt">
-    <configuration name="Argumen_Default_FungsiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Argumen_Default_FungsiKt" />
+  <component name="RunManager" selected="Kotlin.Penanganan_Eksepsi__Exception_Handling_Kt">
+    <configuration name="Break__Continue__Return_dan_LabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Break__Continue__Return_dan_LabelKt" />
       <module name="DasarKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fungsi_Ekspresi_Tunggal__Single_Expression_Functions_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fungsi_Ekspresi_Tunggal__Single_Expression_Functions_Kt" />
+    <configuration name="Null_SafetyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Null_SafetyKt" />
       <module name="DasarKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fungsi_MathKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fungsi_MathKt" />
+    <configuration name="Penanganan_Eksepsi__Exception_Handling_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Penanganan_Eksepsi__Exception_Handling_Kt" />
       <module name="DasarKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fungsi_dan_LambdasKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fungsi_dan_LambdasKt" />
+    <configuration name="Perulangan_For_LoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Perulangan_For_LoopKt" />
       <module name="DasarKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Menghitung_Akar_KuadratKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Menghitung_Akar_KuadratKt" />
+    <configuration name="While_dan_Do_While_LoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="While_dan_Do_While_LoopKt" />
       <module name="DasarKotlinLanjut" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Argumen_Default_FungsiKt" />
-        <item itemvalue="Kotlin.Fungsi_Ekspresi_Tunggal__Single_Expression_Functions_Kt" />
-        <item itemvalue="Kotlin.Fungsi_dan_LambdasKt" />
-        <item itemvalue="Kotlin.Menghitung_Akar_KuadratKt" />
-        <item itemvalue="Kotlin.Fungsi_MathKt" />
+        <item itemvalue="Kotlin.Penanganan_Eksepsi__Exception_Handling_Kt" />
+        <item itemvalue="Kotlin.Null_SafetyKt" />
+        <item itemvalue="Kotlin.Break__Continue__Return_dan_LabelKt" />
+        <item itemvalue="Kotlin.While_dan_Do_While_LoopKt" />
+        <item itemvalue="Kotlin.Perulangan_For_LoopKt" />
       </list>
     </recent_temporary>
   </component>
@@ -333,14 +333,38 @@
       <option name="project" value="LOCAL" />
       <updated>1726310888530</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Add Fungsi dan Lambdas.kt">
+      <created>1726310998829</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1726310998829</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Add Fungsi Ekspresi Tunggal (Single Expression Functions).kt">
+      <created>1726311058289</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1726311058289</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Add Argumen Default Fungsi.kt">
+      <created>1726311133987</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1726311133987</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Add Ekspresi Lambdas.kt">
+      <created>1726311199507</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1726311199507</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add Array Multidimensi.kt" />
-    <MESSAGE value="Add Collections.kt" />
-    <MESSAGE value="Add listOf.kt" />
-    <MESSAGE value="Add mutableListOf.kt" />
     <MESSAGE value="Add arrayListOf.kt" />
     <MESSAGE value="Add Set.kt" />
     <MESSAGE value="Add Map.kt" />
@@ -362,6 +386,10 @@
     <MESSAGE value="Add Fungsi Math.kt" />
     <MESSAGE value="Add Menghitung Luas dan Keliling Lingkaran.kt" />
     <MESSAGE value="Add Menghitung Akar Kuadrat.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Menghitung Akar Kuadrat.kt" />
+    <MESSAGE value="Add Fungsi dan Lambdas.kt" />
+    <MESSAGE value="Add Fungsi Ekspresi Tunggal (Single Expression Functions).kt" />
+    <MESSAGE value="Add Argumen Default Fungsi.kt" />
+    <MESSAGE value="Add Ekspresi Lambdas.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Ekspresi Lambdas.kt" />
   </component>
 </project>
